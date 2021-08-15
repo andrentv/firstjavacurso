@@ -10,7 +10,7 @@ public class MyFrame extends JFrame{
         this.setSize(420,420);
         // this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setResizable(true);
-        this.setTitle("Bom dia! Teste!"); 
+        this.setTitle("Bom dia!"); 
 
         ImageIcon image = new ImageIcon("g.png");
         this.setIconImage(image.getImage());
